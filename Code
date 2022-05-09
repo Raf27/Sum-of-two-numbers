@@ -1,0 +1,19 @@
+#include<iostream>
+using namespace std;
+
+
+
+void sum_two_no() {
+int a,b;
+cout<<"a ";
+cin>>a;
+cout<<"b= ";
+cin>>b;
+cout<<a<<"+"<<b<<"="<<a+b;
+}
+
+
+int main(){
+sum_two_no();
+return 0;
+}
